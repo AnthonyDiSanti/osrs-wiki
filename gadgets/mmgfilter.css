@@ -1,0 +1,14 @@
+.mmg-filter-form-container {
+	/*
+	// 6 lines that are
+	//   0.5em margin-top
+	//   5px top and bottom padding
+	//   1px top and bottom border
+	//   0.9em font-size * 1.6 line-height
+	// 1 line (header) that is
+	//   1.9em tall (help button height)
+	//   0.5em margin-top
+	// 0.5em additional margin-top from the table
+	*/
+	height: calc(6 * (0.5em + 10px + 2px + 1.6 * 0.9em) + 1.9em + 0.5em + 0.5em);
+}
