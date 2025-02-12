@@ -1,0 +1,9 @@
+{
+    "workspace": {
+      "library": ["./globals/mw.lua"]
+    },
+    "diagnostics": {
+      "globals": ["mw"],
+      "disable": ["lowercase-global"]
+    }
+  }
